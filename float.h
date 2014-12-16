@@ -94,7 +94,7 @@ see the files COPYING3 and COPYING.RUNTIME respectively.  If not, see
 #define DBL_MAX_10_EXP	__DBL_MAX_10_EXP__
 #define LDBL_MAX_10_EXP	__LDBL_MAX_10_EXP__
 
-/* Maximum representable finite floating-point number,
+/* Maximum representable finite floating-point number;
 
 	(1 - b**-p) * b**emax
 */
