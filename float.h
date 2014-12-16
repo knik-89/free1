@@ -114,7 +114,7 @@ see the files COPYING3 and COPYING.RUNTIME respectively.  If not, see
 #define DBL_EPSILON	__DBL_EPSILON__
 #define LDBL_EPSILON	__LDBL_EPSILON__
 
-/* Minimum normalized positive floating-point number, b**(emin - 1).  */
+/* Minimum normalized positive floating-point number, b**(emin - 1). */
 #undef FLT_MIN
 #undef DBL_MIN
 #undef LDBL_MIN
